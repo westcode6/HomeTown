@@ -34,7 +34,7 @@ img {
 
 header {
     width: 100%;
-    padding: 8em 2em 10em;
+    padding: 14em 2em;
     background-image: url("/images/mexico-beauty.jpeg"), linear-gradient(to right, #F4442e, #1D201f);
     background-blend-mode: overlay;
     background-repeat: no-repeat;
@@ -78,6 +78,7 @@ header {
 .activities_section{
     background-color: #1D201f;
     color: #6c6b6b;
+    padding: 3em .6em;
 }
 
 .activities_container {
@@ -92,7 +93,7 @@ header {
     background-color: #292828;
     box-shadow: -14px -12px 5px #3d3c3c;
     border-radius: 40px;
-    margin-bottom: 2em;
+    margin-bottom: 4em;
     padding-bottom: 1.7em;
     display: flex;
     flex-direction: column;
